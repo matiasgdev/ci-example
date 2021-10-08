@@ -1,0 +1,23 @@
+{
+  "name": "ci-example",
+  "version": "1.0.0",
+  "description": "It is a example repo to manage ci!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasgdev/ci-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasgdev/ci-example/issues"
+  },
+  "homepage": "https://github.com/matiasgdev/ci-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
